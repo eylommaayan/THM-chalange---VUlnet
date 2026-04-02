@@ -25,6 +25,7 @@ Save the file and exit the editor.
 Rationale
 This ensures that any request to http://vulnnet.thm will be directed directly to the IP address of the machine on TryHackMe. Without this step, we may get a "404 Not Found" error or a default Apache page, as the server will not recognize that we are trying to reach the specific room website.
 
+<img width="790" height="600" alt="image" src="https://github.com/user-attachments/assets/65802b85-530e-4578-a0cf-c5652e96176c" />
 
 
 <img width="1093" height="904" alt="image" src="https://github.com/user-attachments/assets/a6e3cd77-7312-49d7-a2c1-5149abd7aa83" />
