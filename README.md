@@ -49,7 +49,8 @@ sudo nano /etc/hosts
 
 Plaintext
 10.114.132.121  vulnnet.thm
-<img width="852" height="552" alt="image" src="https://github.com/user-attachments/assets/de5707d4-9f96-478d-af50-f673bf4bbb15" />
+<img width="986" height="526" alt="image" src="https://github.com/user-attachments/assets/621425c4-b762-4325-b4df-cbc285817177" />
+
 
 שמירה ועדכון:
 הקובץ נשמר (Ctrl+O) ונסגר (Ctrl+X) כדי להחיל את השינויים באופן מיידי במערכת.
@@ -58,11 +59,4 @@ Plaintext
 בוצע ניסיון גלישה באמצעות הדפדפן לכתובת http://vulnnet.thm. האתר נטען בהצלחה, מה שמאשר כי השרת מוגדר להגיב לשם דומיין זה וכי ניתן להמשיך לשלב סריקת הספריות וה-Subdomains.
 
 
-
-
-
-<img width="790" height="600" alt="image" src="https://github.com/user-attachments/assets/65802b85-530e-4578-a0cf-c5652e96176c" />
-
-
-<img width="1093" height="904" alt="image" src="https://github.com/user-attachments/assets/a6e3cd77-7312-49d7-a2c1-5149abd7aa83" />
 
